@@ -7,6 +7,5 @@ function eventTriggered(err, key) {
 }
 
 scheduler.schedule({ key: 'test-key', expire: expirationTime, handler: eventTriggered }, function (err) {
-  // Schedule set
   console.log("Event scheduled, Please wait for the key to expire");
 });
