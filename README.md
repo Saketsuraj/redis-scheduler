@@ -8,6 +8,9 @@ Redis - scheduler is used to take some action based on expired keys.
 4. Can listen for patterns with one or many handlers using regular expressions.
 
 ### Steps to setup:
-
+Download repo and open in your editor 
+Install node_modules  
+run `npm install redis-scheduler 
+run `node index.js`
 `                                                                                                                                          
 To learn more about redis - scheduler : https://github.com/petreboy14/redis-scheduler
