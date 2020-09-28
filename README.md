@@ -9,8 +9,7 @@ Redis - scheduler is used to take some action based on expired keys.
 
 ### Steps to setup:
 1. Download repo and open in your editor 
-2. Install node_modules  
-3. run `npm install redis-scheduler` 
-4. run `node index.js`
+2. run `npm install redis-scheduler` 
+3. run `node index.js`
 `                                                                                                                                          
 To learn more about redis - scheduler : https://github.com/petreboy14/redis-scheduler
